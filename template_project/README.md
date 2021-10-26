@@ -34,6 +34,7 @@ Find and replace imports:
 ```diff
 - loadImage('cute/GreenGem');
 + loadImage('./assets/GreemGem.png');
+```
 
 # Other notes:
 - KA uses mouseIsPressed instead of mousePressed for the global boolean. Similarly, KA uses keyIsPressed instead of keyPressed. That means you need to change mouseIsPressed and keyIsPressed when pasting your code in the template.
