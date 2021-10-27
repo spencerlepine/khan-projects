@@ -11,3 +11,6 @@ Archive for Khan Academy projects, written in Javascript (using p5.js) and HTML 
 3. Update the `PROJECT_LINK` constant
 
 4. Add `projectObjName` to `./projects/index.js`
+
+5. Import the project file in `index.html`
+
