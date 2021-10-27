@@ -1,7 +1,20 @@
 // matching function names in projects/projectName.js
 const khanProjects = {
   findTheTreasure,
-  twoByRubiksCube
+  twoByRubiksCube,
+  threeByRubiksCube,
+  pepesAdventure,
+  matrixRain,
+  typer,
+  spaceAnimation,
+  findTheTreasureTwo,
+  AstroJumperGame,
+  AstroJumperGameLogo,
+  logo,
+  vroomVroomGame,
+  factorialSquares,
+  factorialTree,
+  recursiveAnimation,
 }
 
 
@@ -71,6 +84,6 @@ function chooseProject(project) {
 }
 
 const projectNames = Object.keys(khanProjects)
-const selection = khanProjects[prompt(`Type a project name: ${projectNames}`)] || Object.values(khanProjects)[0]
+const selection = khanProjects[prompt(`Type a project name: ${projectNames.join(',\n')}`)] || Object.values(khanProjects)[0]
 chooseProject(selection)
 
