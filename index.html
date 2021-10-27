@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Khan Academy Project | Spencer Lepine</title>
+  <style>
+    #canvas {
+      height: 400px;
+      width: 400px;
+    }
+  </style>
+</head>
+
+<body>
+  <h2><span id="projectTitle">Project Name </span> <a id="projectLink"
+      href="https://www.khanacademy.org/computer-programming/find-the-treasure/4707992621350912">Khan
+      Academy Project</a>
+  </h2>
+  <form>
+    <label for="projects">Choose a project:</label>
+
+    <select name="projects" id="dropdown" onchange="switchProject()">
+    </select>
+  </form>
+
+  <p align="center">
+    <canvas id="canvas"></canvas>
+  </p>
+  <footer>
+    <p>By Spencer Lepine</p>
+    <p><a href="https://github.com/spencerlepine">GitHub</a>
+    </p>
+    <p><a href="https://www.linkedin.com/in/spencer-lepine/">LinkedIn</a>
+    </p>
+    <p><a href="https://spencerlepine.com">Blog</a>
+    </p>
+  </footer>
+</body>
+<script src="libraries/rerenderPage.js"></script>
+<script src="libraries/khan.js"></script>
+<script src="libraries/processing.js"></script>
+
+<script src="projects/findTheTreasure.js"></script>
+<script src="projects/index.js"></script>
+
+</html>
