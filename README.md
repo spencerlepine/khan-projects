@@ -6,8 +6,8 @@ I included a working p5.js library file to run the games, but I add screenshot/g
 
 ## Repositories
 
-- [ ] findTheTreasure
-- [ ] findTheTreasureTwo
+- [x] findTheTreasure
+- [x] findTheTreasureTwo
 - [ ] twoByRubiksCube
 - [ ] threeByRubiksCube
 - [ ] recursiveAnimation
