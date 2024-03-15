@@ -4,18 +4,20 @@ Archive for my Khan Academy projects, written in Javascript (using p5.js) and HT
 
 I included a working p5.js library file to run the games, but I add screenshot/gifs as well since it is pretty flaky.
 
+![](./khan-profile-screenshot.png)
+
 ## Repositories
 
 - [x] findTheTreasure
 - [x] findTheTreasureTwo
-- [ ] twoByRubiksCube
+- [x] twoByRubiksCube
 - [ ] threeByRubiksCube
 - [ ] recursiveAnimation
 - [ ] factorialTree
 - [ ] factorialSquares
 - [ ] vroomVroomGame
 - [ ] logoDesign
-- [ ] AstroJumperGameLogo
+- [x] AstroJumperGameLogo
 - [ ] AstroJumperGame
 - [ ] spaceAnimation
 - [ ] typer
