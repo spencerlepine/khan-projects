@@ -11,16 +11,17 @@ I included a working p5.js library file to run the games, but I add screenshot/g
 - [x] findTheTreasure
 - [x] findTheTreasureTwo
 - [x] twoByRubiksCube
-- [ ] threeByRubiksCube
+- [x] threeByRubiksCube
+- [x] pepesAdventure
+- [x] AstroJumperGame
 - [ ] recursiveAnimation
 - [ ] factorialTree
 - [ ] factorialSquares
 - [ ] vroomVroomGame
 - [ ] logoDesign
-- [x] AstroJumperGameLogo
-- [ ] AstroJumperGame
+- [ ] AstroJumperGameLogo
 - [ ] spaceAnimation
 - [ ] typer
 - [ ] pvectorPractice
 - [ ] matrixRain
-- [ ] pepesAdventure
+
